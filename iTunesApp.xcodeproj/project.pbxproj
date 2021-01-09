@@ -589,7 +589,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1150;
-				ORGANIZATIONNAME = "Mustafa OZDEMIR";
+				ORGANIZATIONNAME = "Ahmet Muhammet Vural";
 				TargetAttributes = {
 					F8A6200524FCF3F400C03E90 = {
 						CreatedOnToolsVersion = 11.5;
